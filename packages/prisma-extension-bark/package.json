@@ -6,7 +6,7 @@
     "bugs": {
         "url": "https://github.com/adamjkb/bark/issues"
     },
-    "homepage": "https://prisma-extension-bark.gitbook.io/",
+    "homepage": "https://prisma-extension-bark.gitbook.io",
     "repository": {
         "type": "git",
         "url": "https://github.com/adamjkb/bark",
